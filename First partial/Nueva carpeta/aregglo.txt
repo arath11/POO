@@ -1,0 +1,9 @@
+public class Arreglos{
+	
+	public static Arreglo{
+		int arreglo_numero[]==new int[20];
+		for(i<0;i<arreglo_numero.lenght;i++){
+			numero0=[			
+		}	
+	}
+}
